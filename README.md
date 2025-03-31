@@ -11,16 +11,15 @@
 
 ## 📁 Estructura del proyecto
 
-proyecto/
-├── index.html             # Estructura principal del sitio
-├── assets/
-│   ├── css/
-│   │   └── style.css      # Estilos CSS del sitio
-│   └── imgs/              # Directorio de imágenes
-│       ├── herobackground.jpg
-│       ├── MetaQuestVR.webp
-│       ├── NintendoSwitch.webp
-│       └── CougarGamerChair.webp
+- **index.html**: Estructura principal del sitio
+- **assets/**
+  - **css/**
+    - **style.css**: Estilos CSS del sitio
+  - **imgs/**: Directorio de imágenes
+    - herobackground.jpg
+    - MetaQuestVR.webp
+    - NintendoSwitch.webp
+    - CougarGamerChair.webp
 
 ## 🛒 Productos destacados
 1. **Meta Quest 3** - Lentes de realidad virtual
