@@ -39,10 +39,10 @@
 
 
 ## 📈 Desarrollo futuro
- Agregar funcionalidad de carrito de compras
- Implementar sistema de reseñas de productos
- Expandir catálogo de productos
- Añadir página de contacto
+* **Agregar funcionalidad de carrito de compras
+* **Implementar sistema de reseñas de productos
+* **Expandir catálogo de productos
+* **Añadir página de contacto
 
 ## 📄 Licencia
 © 2024 PixelQuest. Todos los derechos reservados.
