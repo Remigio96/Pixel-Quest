@@ -1,4 +1,6 @@
-# 🎮 PixelQuest
+
+# 🎮 PixelQu![Logo remi 2](https://github.com/user-attachments/assets/907e2c3d-17d5-4b8c-a04d-81e41054f75d)
+est
 
 ## 📋 Descripción
 **PixelQuest** es una landing page para una tienda de productos tecnológicos y gaming. El sitio está diseñado con un enfoque moderno, destacando productos premium para entusiastas de videojuegos y tecnología de realidad virtual.
