@@ -10,6 +10,7 @@
 * **Estilo visual** con paleta de colores en tonos púrpura
 
 ## 📁 Estructura del proyecto
+
 proyecto/
 ├── index.html             # Estructura principal del sitio
 ├── assets/
