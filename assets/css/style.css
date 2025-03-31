@@ -1,0 +1,58 @@
+/* Estilos Generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+/* Header Principal */
+.top {
+    background: url('../imgs/herobackground.jpg') center/cover no-repeat;
+    height: 400px;
+    position: relative;
+}
+.text-img {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    transform: translateY(-50%);
+    color: #fff;
+    padding: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+.text-img h1 {
+    margin: 0;
+    font-size: 6em;
+}
+.text-img p {
+    margin-top: 10px;
+    font-size: 2em;
+}
+/* Main Productos */
+.mid {
+    padding: 50px;
+    margin-left: 200px;
+}
+.product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.product img {
+    max-width: 300px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.descripcion h2 {
+    margin-bottom: 5px;
+}
+.descripcion p {
+    color: #8d02ff;
+    font-size: large;
+    margin: 0;
+}
+/* Footer */
+footer {
+    background-color: #8d02ff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
