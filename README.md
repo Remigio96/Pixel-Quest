@@ -1,4 +1,5 @@
-![Hero_background](https://github.com/user-attachments/assets/23172edd-ce50-4578-a7a1-4bcae19db21e)
+
+![Hero_background](https://github.com/user-attachments/assets/af3ba309-454f-4fe3-a649-204da8d7cbaa)
 
 # 🎮 **PixelQuest**
 
